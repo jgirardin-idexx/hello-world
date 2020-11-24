@@ -4,3 +4,5 @@ This file was created on a Windows 7 virtual machine (Windows 7 Pro x64 - SnapPr
 Addding more test from this same VM.
 
 And even more text.
+
+Re-installed Git for Windows with new credential manager.
