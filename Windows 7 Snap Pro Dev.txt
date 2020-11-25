@@ -7,4 +7,4 @@ And even more text.
 
 Re-installed Git for Windows with new credential manager.
 
-Adding more test.
+Adding more test. Yup, got it.
