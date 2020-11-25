@@ -6,3 +6,5 @@ Addding more test from this same VM.
 And even more text.
 
 Re-installed Git for Windows with new credential manager.
+
+Adding more test.
